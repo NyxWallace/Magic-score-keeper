@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magic counter helper", "Magic counter helper\Magic counter helper.csproj", "{2030F939-A482-47C3-B243-8FE04F7E569A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://antoinefarine.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Magic\u0020counter\u0020helper\\Magic\u0020counter\u0020helper.csproj
+		SccProjectName1 = Magic\u0020counter\u0020helper
+		SccLocalPath1 = Magic\u0020counter\u0020helper
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|ARM.Build.0 = Debug|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|x86.ActiveCfg = Debug|x86
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|x86.Build.0 = Debug|x86
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Debug|x86.Deploy.0 = Debug|x86
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|ARM.ActiveCfg = Release|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|ARM.Build.0 = Release|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|ARM.Deploy.0 = Release|ARM
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|x86.ActiveCfg = Release|x86
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|x86.Build.0 = Release|x86
+		{2030F939-A482-47C3-B243-8FE04F7E569A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
